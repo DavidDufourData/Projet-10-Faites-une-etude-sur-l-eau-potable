@@ -10,7 +10,7 @@ L'ONG DWFA (Drinking Water For All) a pour ambition de donner accès à l’eau 
 
 L’association a effectué une demande de financement auprès d’un bailleur de fonds. Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays encore indéterminé.  
 
-Consultant data analyst en mission dans l’ONG DWFA, j'ai été missionnée pour construire un tableau de bord qui permet :  
+Consultant data analyst en mission dans l’ONG DWFA, j'ai été missionné pour construire un tableau de bord qui permet :  
 - L'identification des pays qui rencontrent des difficultés d’accès à l’eau potable  
 - L'identification des pays sur lesquels l'ONG doit concentrer ses efforts.
 
