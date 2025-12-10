@@ -2,6 +2,7 @@
 
 ## Contexte et objectifs
 
+![Logo DWFA](P10_logo_DWFA.jpg)  
 L’objectif est de créer un tableau de bord Power BI permettant d’analyser les données mondiales d’accès à l’eau potable et de mettre en évidence les zones les plus vulnérables.
 
 ## Soft Skills
